@@ -11,6 +11,10 @@ Made a game of Space Invaders using Java.
 - Don't let the aliens reach your ship.
 - There is no limit, kill as many aliens as you can!
 
+## Requirements to Play
+- Java JDK 8 or higher
+- Any Java IDE or terminal that is can run Java 
+
 ## Controls
 - **Left Arrow** moves your ship to the left
 - **Right Arrow** moves your ship to the right
@@ -20,9 +24,9 @@ Made a game of Space Invaders using Java.
 ## Game features:
 - Increasing difficulty with each wave
 - Randomized alien appearances
--  Collision detection system
--  Score tracking
--  Game over + restart system
+- Collision detection system
+- Score tracking
+- Game over + restart system
 
 ## IDE Used:
 IntelliJ
